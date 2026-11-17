@@ -81,8 +81,6 @@ Every interface change has its own switch in the game's **Options > Controls** (
 <details>
 <summary><b>Auras overlay</b></summary>
 
-<!-- SCREENSHOT OWED: both aura windows during a fight (own character and a monster only). -->
-
 - **Two windows.** Your auras on the left and your target's at the top right, with stacks, time left and short colored effect labels.
 - **Warnings.** Heal blocks such as Decay in red, taunts and enrages in orange, auras at their stack limit glowing blue.
 - **Stack limits.** `3/5` when the limit is known, and the count stops at the limit; an aura with no listed limit shows only its count.
@@ -117,12 +115,6 @@ Every interface change has its own switch in the game's **Options > Controls** (
 
 MVA is completely free. It has no purchases, subscriptions, advertisements or paid features, and none are planned. Nobody is authorized to sell it; if you paid for it, ask for a refund.
 
-Donations are optional and do not unlock anything: [BuyMeACoffee](https://buymeacoffee.com/arglaxaqwv) or [Ko-Fi](https://ko-fi.com/arglaxgaming).
-
-## A note to Artix Entertainment
-
-Artix Entertainment is welcome to adopt any of the quality-of-life ideas and interface designs shown in MVA in its own games and clients, free of charge and without asking. The only request is credit for the idea, for example a mention or a shout-out to Arglax. The exact terms are in section 5 of the [license](LICENSE).
-
 ## Privacy
 
 MVA has no accounts of its own. Your login is sent only to Artix Entertainment's servers, exactly as in the official client. Game files are cached on the phone to shorten loading.
@@ -139,10 +131,6 @@ Both answers contain data from MVA only and are scrubbed before sending to remov
 ## Support
 
 Questions and problems: [MVA Discord](https://discord.gg/Dwb7XMkpSh), also linked from the crest's **Guide** and **About**.
-
-## License
-
-MVA is distributed under the [MVA Open Freeware License](LICENSE). In short: you may use, study, modify and share MVA free of charge, provided you credit Arglax with a link to this repository; MVA and every work based on it must stay free, and nobody may present it as their own or as the official MVA if changed. The full source code is in [`src`](src).
 
 ## Credits and legal notices
 
