@@ -1,8 +1,10 @@
 # MVA (MobileVibeAQW)
 
 **AdventureQuest Worlds on Android, with a phone-friendly interface and performance improvements.**
-
 MVA loads the game directly from `game.aq.com` and changes only how it is presented and how it performs on a phone. It contains no bots, trainers or cheats.
+
+>[!NOTE]
+>Since my post got removed, as expected, in Reddit, still, feel free to sandbox your ideas for AQW thru this open source app. Enjoy.
 
 > [!IMPORTANT]
 > **Download size:** `MVA_v1-0-0.apk`, about 5.8 MB (previously 7.8 MB).
