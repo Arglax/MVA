@@ -1,0 +1,59 @@
+MVA Open Freeware License
+Version 2.0
+
+Copyright (c) 2026 Arglax.
+
+"MVA" means the MVA (MobileVibeAQW) Android application and its source code,
+as published by Arglax in this repository, together with its documentation.
+
+1. Use, study, change and share
+   You may use, read, copy, modify and redistribute MVA and works based on
+   it, in source or compiled form, free of charge, under the conditions in
+   sections 2 to 4.
+
+2. Credit
+   Any copy, modified version or work that uses a feature, idea, interface
+   design or code from MVA must give clear credit to Arglax as its original
+   author, for example in its credits, about screen, README or release notes,
+   with a link to this repository. Keep this license and the copyright
+   notice with every copy of the source.
+
+3. Always free
+   MVA and every work based on it must stay free of charge. You may not
+   sell it, charge for access to it, place any of its features behind a
+   payment, subscription or "premium" tier, bundle it with paid goods or
+   services, or add advertising to it. Voluntary donations are allowed,
+   provided nothing is given or withheld in return for them.
+
+4. No impersonation
+   You may not present MVA, or a version of it, as your own original work,
+   or as the official MVA if you changed it.
+
+5. Ideas and designs: grant to Artix Entertainment
+   Artix Entertainment, LLC and its affiliates may freely adopt, implement
+   and adapt any quality-of-life idea, feature concept or interface design
+   shown in MVA, in any of their games and clients, without fee and without
+   asking for permission. The sole condition is reasonable credit to
+   Arglax for the idea, for example a mention in release notes or a public
+   shout-out.
+
+6. Third-party material
+   MVA includes Ruffle, licensed under the MIT and Apache-2.0 licenses (see
+   the "licenses" folder). AdventureQuest Worlds, its game content and its
+   interface artwork belong to Artix Entertainment, LLC; this license
+   grants no rights in them. MVA is not affiliated with or endorsed by
+   Artix Entertainment, LLC.
+
+7. No charge, no obligation
+   MVA is offered free of charge. Donations are voluntary, are not a
+   purchase, and give no entitlement to features, support or updates.
+
+8. No warranty
+   MVA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+   THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING
+   ANY ACTION TAKEN AGAINST A GAME ACCOUNT, ARISING FROM THE USE OF MVA.
+
+9. Termination
+   This license ends automatically for anyone who breaches it.
